@@ -1,22 +1,30 @@
-# Telegram bot template based on telegraf.js.org
+<p align="center">
+  <a href="https://t.me/alilendbot">
+      <img src="https://avatars2.githubusercontent.com/u/51444903?s=400&u=1a0f8aeed59a74add6a83b1f3b57815aca7033ae&v=4" width="200">
+  </a>
+</p>
 
-Please, enjoy this starter template for Telegram bots based on telegraf.js.org. It includes most common middlewares used by me, MongoDB integration, language picker and internationalization and shows basic encapsulation techniques used by me.
+# Alilend Telegram bot
+
+This is the code for the Telegram bot — [@alilendbot](https://t.me/alilendbot), that automated news feed about interesting and discount goods from Aliexpress.
+
 
 # Installation and local launch
 
-1. Clone this repo: `git clone https://github.com/backmeupplz/telegraf-template`
-2. Launch the [mongo database](https://www.mongodb.com/) locally
-3. Create `.env` with the environment variables listed below
-4. Run `yarn install` in the root folder
-5. Run `yarn develop`
+1. Clone this repo: `git clone https://github.com/Kiku-Reise/alilend`
+2. Create `.env` with the environment variables listed below
+3. Run `yarn install` in the root folder
+4. Run `yarn develop`
 
 And you should be good to go! Feel free to fork and submit pull requests. Thanks!
 
 # Environment variables
 
 - `TOKEN` — Telegram bot token
-- `MONGO`— URL of the mongo database
+- `CHANNEL_HANDLE` — Handle of the Telegram ad channel
+- `CHANNEL_ID` — ID of the Telegram ad channel
 
+Bot should be admin at `CHANNEL_ID`.
 Also, please, consider looking at `.env.sample`.
 
 # License
