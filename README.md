@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://t.me/alilendbot">
-      <img src="https://avatars2.githubusercontent.com/u/51444903?s=400&u=1a0f8aeed59a74add6a83b1f3b57815aca7033ae&v=4" width="200">
+      <img src="https://cdn4.telesco.pe/file/SIsergJrzjNpuPnyMsHICSw1TAG46Rh7H7yRaR7t9QTIYXEi7BdSrtzLVBKSkOKhirs4f0NJ6LsrQ9tgUNntPkAYBerifD-LNHp1I_rrg0T_DLQF1k6Ycg8njsO7JwIvmNVgy6V9MFVzLtvipLmhGMpq76me__q4Hu9Brvgb29kUlBbv3SsK95_HHKB7jw61naufYH4-A-lIK62tX8HsumeBFdhpgEtiYWkQO5EGFAjFlCKqRGHiaIgXVQR2jUGRc3V1BKsHJ3EV64Ff8YlbwJrv7CJ7xK3lXNcEaU8Wq78SZsDt22boRLvB30lNDpngStoWCSssTFETsz2vUJjdLA.jpg" width="200">
   </a>
 </p>
 
